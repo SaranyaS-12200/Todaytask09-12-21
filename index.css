@@ -1,0 +1,23 @@
+/* p{
+    border:3px solid indigo;
+} */
+body{
+    background-color: lightgrey;
+}
+.fa{
+    color:blue;
+}
+a{
+    border-bottom: 1px solid blue;
+}
+.box-part{
+    background-color: white;
+    margin: 20px 10px;
+    padding: 60px 10px;  
+}
+.text{
+    margin: 20px 0px;
+}
+.box{
+    padding: 60px 0px;
+}
